@@ -1,0 +1,164 @@
+{ "list": [
+    {"authors": "M. Duits, B. Fahs and R. Kozhan",
+        "title":" Global Fluctuation for Multiple Orthogonal Polynomial Ensembles",
+        "abstract": " ",
+        "arXiv":"..",
+        "journal":"submitted"
+    },
+    {"authors": "C. Charlier, M. Duits, A.B.J. Kuijlaars and J. Lenells",
+    "title":" A periodic hexagon tiling model and non-Hermitian orthogonal polynomials",
+    "abstract": "We study a one-parameter family of probability measures on lozenge tilings of large regular hexagons that interpolates between  the uniform measure on all possibletilings and  a particular fully frozen tiling.   The description of the asymptotic behavior  can be separated into two regimes: the low and the high temperature regime.  Our main results are  the computations of  the disordered regions in both regimes and the limiting densities of the different lozenges there.   For low temperatures, the disorded region consists of two disjoint ellipses. In the high temperature regime the two ellipses merge into a single simply connected region. At the transition from the low to the high temperature a tacnode appears. The key to our asymptotic study is a recent approach introduced by Duits and Kuijlaars providing a double integral representation for the correlation kernel. One of the factors in the integrand  is the Christoffel-Darboux kernel associated to polynomials that satisfy non-Hermitian orthogonality relations with respect to a complex-valued weight on a contour in the complex plane. We compute the asymptotic behavior of these orthogonal polynomials and the Christoffel-Darboux kernel by means of a Riemann-Hilbert analysis. After substituting the resulting asymptotic formulas into the double integral we prove our main results by  classical steepest descent arguments. ",
+    "arXiv":"..",
+    "journal":"submitted"
+},
+{
+    "authors": "T. Berggren and M. Duits",
+    "title": "Correlation functions for determinantal point processes defined by infinite block Toeplitz minors",
+    "abstract": "We study the correlation functions for determinantal point processes defined by products of infinite minors of block Toeplitz matrices. The motivation for studying such processes comes from doubly  periodically weighted tilings of planar domains, such as the two-periodic Aztec diamond. Our main results are double integral formulas for the correlation kernels. In general, the integrand is a matrix-valued function built out of a factorization of the matrix-valued weight. In concrete examples the factorization can be worked out in detail and we obtain explicit integrands. In particular, we find an alternative proof for a formula for the two-periodic Aztec diamond recently derived in []. We strongly believe that also in other concrete cases the double integral formulas are good starting points for asymptotic studies.",
+    "arXiv": "https://arxiv.org/abs/1901.10877",
+    "journal": "Accepted for publication in Advances in Mathematics"
+},
+{
+    "authors": " M. Duits and A.B.J. Kuijlaars",
+    "title": "The two periodic Aztec diamond and matrix valued orthogonal polynomials",
+    "arXiv": "https://arxiv.org/abs/1712.05636",
+    "journal": "accepted for publication in JEMS",
+    "abstract": "We analyze domino tilings of the two-periodic Aztec diamond by means of matrix valued orthogonal polynomials that we obtain from a reformulation of the Aztec diamond as a non-intersecting path model with periodic transition matrices. In a more general framework we express the correlation kernel for the underlying determinantal point process as a double contour integral that contains the reproducing kernel of matrix valued orthogonal polynomials. We use the Riemann-Hilbert problem to simplify this formula for the case of the two-periodic Aztec diamond. In the large size limit we recover the three phases of the model known as solid, liquid and gas. We describe fine asymptotics for the gas phase and at the cusp points of the liquid-gas boundary, thereby complementing and extending results of Chhita and Johansson."
+},
+{   "authors": "M. Duits and  R. Kozhan", 
+    "title": "Relative Szego Asymptotics for Toeplitz determinants", 
+    "arXiv": "https://arxiv.org/abs/1611.01020",
+    "journal": "accepted for publication in International Mathematics Research Notices",
+    "abstract": "We study the asymptotic behavior, as n to infinity, of ratios of Toeplitz determinants Dn(ehdμ)/Dn(dμ) defined by a measure μ on the unit circle and a sufficiently smooth function h. The approach we follow is based on the theory of orthogonal polynomials. We prove that the second order asymptotics depends on h and only a few Verblunsky coefficients associated to μ. As a result, we establish a relative version of the Strong Szegő Limit Theorem for a wide class of measures μ with essential support on a single arc. In particular, this allows the measure to have a singular component within or outside of the arc."
+},
+{
+    "authors":"M. Duits and T. Berggren ", 
+    "title": "Mesoscopic fluctuations for the thinned Circular Unitary Ensemble", 
+    "arXiv": "https://arxiv.org/abs/1611.00991",
+    "journal": "Mathematical physics, analysis and geometry, vol. 20, no. 3, 2017.",
+    "abstract": "In this paper we study the asymptotic behavior of mesoscopic fluctuations for the thinned Circular Unitary Ensemble. The effect of thinning is that the eigenvalues start to decorrelate. The decorrelation is stronger on the larger scales than on the smaller scales. We investigate this behavior by studying mesoscopic linear statistics. There are two regimes depending on the scale parameter and the thinning parameter. In one regime we obtain a CLT of a classical type and in the other regime we retrieve the CLT for CUE. The two regimes are separated by a critical line. On the critical line the limiting fluctuations are no longer Gaussian, but described by infinitely divisible laws. We argue that this transition phenomenon is universal by showing that the same transition and their laws appear for fluctuations of the thinned sine process in a growing box. The proofs are based on a Riemann-Hilbert problem for integrable operators."
+},
+{   "authors": "M. Duits",
+    "title": "On global fluctuations for non-colliding processes" ,
+    "arXiv": "https://arxiv.org/abs/1510.08248",
+    "journal": "The Annals of Probability 2018, Vol. 46, No. 3, 1279–1350.",
+    "abstract": "We study the global fluctuations for a class of determinantal point processes coming from large systems of non-colliding processes and non-intersecting paths. Our main assumption is that the point processes are constructed by biorthogonal families that satisfy finite term recurrence relations. The central observation of the paper is that the fluctuations of multi-time or multi-layer linear statistics can be efficiently expressed in terms of the associated recurrence matrices. As a consequence, we prove that different models which share the same asymptotic behavior of the recurrence matrices, also share the same asymptotic behavior for the global fluctuations. An important special case is when the recurrence matrices have limits along the diagonals, in which case we prove Central Limit Theorems for the linear statistics. We then show that these results prove Gaussian Free Field fluctuations for the random surfaces associated to these systems. To illustrate the results, several examples will be discussed, including non-colliding processes for which the invariant measures are the classical orthogonal polynomial ensembles and random lozenge tilings of a hexagon."
+},
+{
+    "authors": "M. Duits and K. Johansson", 
+    "title": "On mesoscopic equilibrium for linear statistics in Dyson's Brownian Motion",
+    "journal": " Mem. Amer. Math. Soc. 255 (2018), no. 1222, v+118 pp.",
+    "arXiv": "https://arxiv.org/abs/1312.4295",
+    "abstract": "In this paper we study mesoscopic fluctuations for Dyson's Brownian motion with beta=2. Dyson showed that the Gaussian Unitary Ensemble (GUE) is the invariant measure for this stochastic evolution and conjectured that, when starting from a generic configuration of initial points, the time that is needed for the GUE statistics to become dominant depends on the scale we look at: The microscopic correlations arrive at the equilibrium regime sooner than the macrosopic correlations. In this paper we investigate the transition on the intermediate, i.e. mesoscopic, scales. The time scales that we consider are such that the system is already in microscopic equilibrium (sine-universality for the local correlations), but we have not yet reached equilibrium at the macrosopic scale. We describe the transition to equilibrium on all mesoscopic scales by means of Central Limit Theorems for linear statistics with sufficiently smooth test functions. We consider two situations: deterministic initial points and randomly chosen initial points. In the random situation, we obtain a transition from the classical Central Limit Theorem for independent random variables to the one for the GUE."
+},
+{
+    "authors": "J. Breuer and M. Duits", 
+    "title": "Central Limit Theorems for biorthogonal ensembles and asymptotics of recurrence coefficients",
+    "journal": " J. Amer. Math. Soc. 30 (2017) No. 1, 27--66.",
+    "arXiv": "https://arxiv.org/abs/1309.6224",
+    "abstract": "We study fluctuations of linear statistics corresponding to smooth functions for certain biorthogonal ensembles. We study those biorthogonal ensembles for which the underlying biorthogonal family satisfies a finite term recurrence and describe the asymptotic fluctuations using right limits of the recurrence matrix. As a consequence, we show that whenever the right limit is a Laurent matrix, a Central Limit Theorem holds. We will also discuss the implications for orthogonal polynomial ensembles. In particular, we obtain a Central limit theorem for the orthogonal polynomial ensemble associated with any measure belonging to the Nevai Class of an interval. Our results also extend previous results on Unitary Ensembles in the one-cut case. Finally, we will illustrate our results by deriving Central Limit Theorems for the Hahn ensemble for lozenge tilings of a hexagon and for the Hermitian two matrix model"
+},
+{
+    "authors": "J. Breuer and M. Duits",
+    "title": "Universality of mesocopic fluctuation in orthogonal polynomial ensembles", 
+    "journal": "Comm. Math. Phys. 342 (2016), no. 2, 491--531", 
+    "arXiv": "https://arxiv.org/abs/1411.5205",
+    "abstract": "We prove that the fluctuations of mesocopic linear statistics for orthogonal polynomial ensembles are universal in the sense that two measures with asymptotic recurrence coefficients have the same asymptotic mesoscopic fluctuations (under an additional assumption on the local regularity of one of the measures). The convergence rate of the recurrence coefficients determines the range of scales on which the limiting fluctuations are identical. Our main tool is an analysis of the Green's function for the associated Jacobi matrices. As a particular consequence we obtain a Central Limit Theorem for the modified Jacobi Unitary Ensembles on all mesosopic scales."
+},
+{
+    "authors": "J. Breuer and M. Duits", 
+    "title": "The Nevai condition and a local law of large numbers for orthogonal polynomial ensembles",
+    "journal":"Adv. Math. 265 (2014), 441--484.",
+    "arXiv": "https://arxiv.org/abs/1301.2061",
+    "abstract": "We consider asymptotics of orthogonal polynomial ensembles, in the macroscopic and mesoscopic scales. We prove both global and local laws of large numbers (analogous to the recently proven local semicircle law for Wigner matrices) under fairly weak conditions on the underlying measure mu. Our main tools are a general concentration inequality for determinantal point processes with a kernel that is a self-adjoint projection, and a strengthening of the Nevai condition from the theory of orthogonal polynomials."
+},
+{
+    "authors": "M. Duits",
+    "title": "Painlevé kernels in Hermitian matrix models", 
+    "journal": "Constr. Approx. 39 (2014), No 1, 173--196 ",
+    "arXiv": "https://arxiv.org/abs/1302.1710",
+    "abstract": "After reviewing the Hermitian one matrix model, we will give a brief introduction to the Hermitian two matrix model and present a summary of some recent results on the asymptotic behavior of the two matrix model with a quartic potential. In particular, we will discuss a limiting kernel in the quartic/quadratic case that is constructed out of a 4×4 Riemann-Hilbert problem related to Painlevé II equation. Also an open problem will be presented."
+},
+{
+    "authors": "M. Duits and D. Geudens",   
+    "title": "A critical phenomenon in the two-matrix model in the quartic/quadratic case",
+    "journal": " Duke Math. J. 162 (2013) No. 8, 1383--1462. ",
+    "arXiv": "https://arxiv.org/abs/1111.2162",
+    "abstract": "We study a critical behavior for the eigenvalue statistics in the two-matrix model in the quartic/quadratic case. For certain parameters, the eigenvalue distribution for one of the matrices has a limit that vanishes with an exponent 1/2 in the interior of the support. The main result of the paper is a new kernel that describes the local eigenvalue correlations near that critical point. The kernel is expressed in terms of a 4 x 4 Riemann-Hilbert problem related to the Hastings-McLeod solution of the Painlevé II equation. We then compare the new kernel with two other critical phenomena that appeared in the literature before. First, we show that the critical kernel that appears in case of quadratic vanishing of the limiting eigenvalue distribution can be retrieved from the new kernel by means of a double scaling limit. Second, we briefly discuss the relation with the tacnode singularity in non-colliding Brownian motions that was recently analyzed. Although the limiting density in that model also vanishes with an exponent 1/2 at a certain interior point, the process at the local scale is different from the process that we obtain in the two-matrix model."
+},
+{ 
+    "authors": "M. Duits",
+    "title": "The Gaussian free field in an interlacing particle system with two jump rates",
+    "journal": "Comm. Pure and Appl. Math. 66 (2013), no. 4, 600--643 ",
+    "arXiv": "https://arxiv.org/abs/1105.4656",
+    "abstract": "We study the fluctuations of a random surface in a stochastic growth model on a system of interlacing particles placed on a two dimensional lattice. There are two different types of particles, one with a low jump rate and the other with a high jump rate. In the large time limit, the random surface has a deterministic shape. Due to the different jump rates, the limit shape and the domain on which it is defined are not smooth. The main result is that the fluctuations of the random surface are governed by the Gaussian free field."
+},
+{
+    "authors": "M. Duits, A.B.J. Kuijlaars and M. Mo",
+    "title": " Asymptotic analysis of the two matrix model with a quartic potential", 
+    "journal": "To appear in Volume 65 of the MSRI book series", 
+    "arXiv": "https://arxiv.org/abs/1210.0097",
+    "abstract": "We give a summary of the recent progress made by the authors and collaborators on the asymptotic analysis of the two matrix model with a quartic potential. The paper also contains a list of open problems."
+},
+{
+    "authors": "M. Duits and J. Breuer",
+    "title": "Nonintersecting paths with a staircarse initial condition",
+    "journal": "Electron. J. Probab. 17 (2012), no. 60, 1--24.", 
+    "arXiv": "http://arxiv.org/abs/1105.0388",
+    "abstract": "We consider an ensemble of N discrete nonintersecting paths starting from equidistant points and ending at consecutive integers. Our first result is an explicit formula for the correlation kernel that allows us to analyze the process as N tends to infinity. In that limit we obtain a new general class of kernels describing the local correlations close to the equidistant starting points. As the distance between the starting points goes to infinity, the correlation kernel converges to that of a single random walker. As the distance to the starting line increases, however, the local correlations converge to the sine kernel. Thus, this class interpolates between the sine kernel and an ensemble of independent particles. We also compute the scaled simultaneous limit, with both the distance between particles and the distance to the starting line going to infinity, and obtain a process with number variance saturation, previously studied by Johansson."
+},
+{ 
+    "authors": "M. Duits and A.B.J: Kuijlaars and M. Mo", 
+    "title": "The Hermitian two matrix model with an even quartic potential ",
+    "journal": "Mem. Amer. Math. Soc. 217 (2012), no. 1022, 105 pp.",
+    "arXiv": "https://arxiv.org/abs/1010.4282",
+    "abstract": "We consider the two matrix model with an even quartic potential W(y)=y^4/4+alpha y^2/2 and an even polynomial potential V(x). The main result of the paper is the formulation of a vector equilibrium problem for the limiting mean density for the eigenvalues of one of the matrices M_1. The vector equilibrium problem is defined for three measures, with external fields on the first and third measures and an upper constraint on the second measure. The proof is based on a steepest descent analysis of a 4 x 4 matrix valued Riemann-Hilbert problem that characterizes the correlation kernel for the eigenvalues of M_1. Our results generalize earlier results for the case alpha=0, where the external field on the third measure was not present."
+},
+{
+    "authors": "M. Duits, D. Geudens and A.B.J. Kuijlaars",
+    "title": " A vector equilibrium problem for the two-matrix model in the quartic/quadratic case",
+    "journal": "Nonlinearity 24 (2011), 951--993.",
+    "arXiv": "https://arxiv.org/abs/1007.3137",
+    "abstract": ""
+},
+{
+    "authors": " A. Borodin and M. Duits ",
+    "title": " Limits of determinantal processes near a tacnode",
+    "journal": "Ann. Inst. Henri Poincare (B) 47 (2011), no. 1, 243-258.",
+    "arXiv": "https://arxiv.org/abs/0911.1980",
+    "abstract": "We study a Markov process on a system of interlacing particles. At large times the particles fill a domain that depends on a parameter eps> 0. The domain has two cusps, one pointing up and one pointing down. In the limit eps to 0 the cusps touch, thus forming a tacnode. The main result of the paper is a derivation of the local correlation kernel around the tacnode in the transition regime ε↓0. We also prove that the local process interpolates between the Pearcey process and the GUE minor process."
+},
+{
+    "authors": "S. Delvaux and M. Duits",
+    "title": " An equilibrium problem for the limiting eigenvalue distribution of rational Toeplitz matrices",
+    "journal": "SIAM J. Matrix Anal. 31(4) (2010), 1894--1914. ",
+    "arXiv": "https://arxiv.org/abs/0911.4897",
+    "abstract": "We consider the asymptotic behavior of the eigenvalues of Toeplitz matrices with rational symbol as the size of the matrix goes to infinity. Our main result is that the weak limit of the normalized eigenvalue counting measure is a particular component of the unique solution to a vector equilibrium problem. Moreover, we show that the other components describe the limiting behavior of certain generalized eigenvalues. In this way, we generalize the recent results of Duits and Kuijlaars for banded Toeplitz matrices."
+},
+{ "authors": "M. Duits and K. Johansson",
+    "title": "  Powers of large random unitary matrices and Toeplitz determinants",
+    "journal":" Trans. Amer. Math. Soc. 362 (2010), 1169-1187.",
+    "arXiv": "http://arxiv.org/abs/math-ph/0607017",
+    "abstract": "We study the limiting behavior of Tr U^{k(n)}, where U is a n×n random unitary matrix and k(n) is a natural number that may vary with n in an arbitrary way. Our analysis is based on the connection with Toeplitz determinants. The central observation of this paper is a strong Szegö limit theorem for Toeplitz determinants associated to symbols depending on n in a particular way. As a consequence to this result, we find that for each fixed m in N, the random variables Tr U^{k_j(n)}/ sqrt{min(k_j(n),n)}, j=1,...,m, converge to independent standard complex normals."
+},
+{ "authors": " M. Duits and A.B.J. Kuijlaars",
+    "title": " Universality in the two matrix model: a Riemann-Hilbert steepest descent analysis",
+    "journal": "Comm. Pure Appl. Math. 62 (2009), 1076--1153.",
+    "arXiv": "https://arxiv.org/abs/0807.4814",
+    "abstract": "The eigenvalue statistics of a pair (M1,M2) of n×n Hermitian matrices taken random with respect to the measure    frac{1}{Z_n} exp (-n Tr (V(M_1)+W(M_2)-tau M_1M_2) ) d M_1 d M_2 can be described in terms of two families of biorthogonal polynomials. In this paper we give a steepest descent analysis of a 4×4 matrix-valued Riemann-Hilbert problem characterizing one of the families of biorthogonal polynomials in the special case W(y)=y4/4 and V an even polynomial. As a result we obtain the limiting behavior of the correlation kernel associated to the eigenvalues of M1 (when averaged over M2) in the global and local regime as n→∞ in the one-cut regular case. A special feature in the analysis is the introduction of a vector equilibrium problem involving both an external field and an upper constraint."
+},
+{ "authors": "M. Duits and A.B.J. Kuijlaars",
+    "title": " An equilibrium problem for the limiting eigenvalue distribution of banded Toeplitz matrices", 
+    "journal":"SIAM J. Matrix Anal. Appl. 30 (2008), 173--196.",
+    "arXiv": "https://arxiv.org/abs/0704.0378",
+    "abstract": "We study the limiting eigenvalue distribution of n×n banded Toeplitz matrices as n to infinity. From classical results of Schmidt-Spitzer and Hirschman it is known that the eigenvalues accumulate on a special curve in the complex plane and the normalized eigenvalue counting measure converges weakly to a measure on this curve as n to infinity. In this paper, we characterize the limiting measure in terms of an equilibrium problem. The limiting measure is one component of the unique vector of measures that minimes an energy functional defined on admissible vectors of measures. In addition, we show that each of the other components is the limiting measure of the normalized counting measure on certain generalized eigenvalues."
+},
+{ 
+    "authors": "M. Duits and A.B.J. Kuijlaars",
+    "title": " Painlevé I asymptotics for orthogonal polynomials with respect to a varying quadratic weight",
+    "journal": " Nonlinearity 19 (2006), 2211-2245.",
+    "arXiv": "http://front.math.ucdavis.edu/math.CA/0605201",
+    "abstract": "We study polynomials that are orthogonal with respect to a varying quartic weight exp(-N(x^2/2+tx^4/4)) for t<0, where the orthogonality takes place on certain contours in the complex plane. Inspired by developments in 2D quantum gravity, Fokas, Its, and Kitaev, showed that there exists a critical value for t around which the asymptotics of the recurrence coefficients are described in terms of exactly specified solutions of the Painleve I equation. In this paper, we present an alternative and more direct proof of this result by means of the Deift/Zhou steepest descent analysis of the Riemann-Hilbert problem associated with the polynomials. Moreover, we extend the analysis to non-symmetric combinations of contours. Special features in the steepest descent analysis are a modified equililbrium problem and the use of Psi-functions for the Painleve I equation in the construction of the local parametrix."
+}
+]
+} 

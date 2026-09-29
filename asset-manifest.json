@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "./static/css/main.152f8c6e.css",
+    "main.js": "./static/js/main.ba62c5c4.js",
+    "static/media/SlidesLecture1.pdf": "./static/media/SlidesLecture1.df8f635651761400f2d7.pdf",
+    "static/media/SlidesLecture2.pdf": "./static/media/SlidesLecture2.96face2a175cd8053b37.pdf",
+    "static/media/DPP3.pdf": "./static/media/DPP3.11bf56efa0584cb0aa95.pdf",
+    "static/media/DPP2.pdf": "./static/media/DPP2.44e051d148b79af222fa.pdf",
+    "static/media/DPP.pdf": "./static/media/DPP.3b214f3625a46eebcf9c.pdf",
+    "static/media/back.jpg": "./static/media/back.95aed3e3014e932c2c3a.jpg",
+    "static/media/DPP4.pdf": "./static/media/DPP4.3da5d3a68205a8c69c57.pdf",
+    "static/media/Aztec.png": "./static/media/Aztec.30a9e3bca90107c8dc65.png",
+    "static/media/HexagonBigCircle.jpg": "./static/media/HexagonBigCircle.1a1d137bdd18f3384328.jpg",
+    "static/media/CV.pdf": "./static/media/CV.c1c83727e7a36144a259.pdf",
+    "static/media/Maurice.jpg": "./static/media/Maurice.c033aaa0b1bbe103a273.jpg",
+    "static/media/HexagonSmall3.jpg": "./static/media/HexagonSmall3.b24f28ec181b9fef4e82.jpg",
+    "static/media/HexagonSmall2.jpg": "./static/media/HexagonSmall2.31f572d936605dafedee.jpg",
+    "static/media/HexagonSmall1.jpg": "./static/media/HexagonSmall1.06300aef6b1e0335cb43.jpg",
+    "static/media/HexagonSmall4.jpg": "./static/media/HexagonSmall4.273b4a5759faf3c8c8ee.jpg",
+    "static/media/hexplustiles.jpg": "./static/media/hexplustiles.5ba92afb4130289743fb.jpg",
+    "static/media/TW.jpg": "./static/media/TW.eb4c6d49ba9241ecd954.jpg",
+    "static/media/bell.jpg": "./static/media/bell.ead4c466f7be8090449b.jpg",
+    "index.html": "./index.html",
+    "main.152f8c6e.css.map": "./static/css/main.152f8c6e.css.map",
+    "main.ba62c5c4.js.map": "./static/js/main.ba62c5c4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.152f8c6e.css",
+    "static/js/main.ba62c5c4.js"
+  ]
+}
